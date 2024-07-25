@@ -1,6 +1,3 @@
-# Patricia Hughes
-
-
 # Print the main menu and instructions
 def show_instructions():
     print("Defeating Dracula Text Adventure Game")
